@@ -26,16 +26,10 @@
 
 ## 在线预览
 
-仓库根目录的 [`index.html`](index.html) 是完整单文件页面，浏览器直接打开即可。
+- GitHub Pages：<https://66shun66.github.io/china-anime-pilgrimage-map/>
+- 本地单文件：[`index.html`](index.html)，下载后浏览器直接打开即可
 
-如需 GitHub Pages：
-
-1. 打开仓库 `Settings → Pages`
-2. Source 选择 `Deploy from a branch`
-3. Branch 选 `main`，目录选 `/ (root)`
-4. 保存后访问 `https://66shun66.github.io/china-anime-pilgrimage-map/`
-
-> Pages 首次部署可能需要一两分钟。
+> Pages 由 `.github/workflows/pages.yml` 自动部署；首次发布或更新后可能需要一两分钟。
 
 ## 仓库结构
 
